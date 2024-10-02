@@ -41,6 +41,7 @@ namespace WinFormsApp1
             alzaAbbassa(-1);
         }
 
+
         private void button_MouseUp(object sender, MouseEventArgs e)
         {
             pulsanteSchiacciato = false;
@@ -49,7 +50,7 @@ namespace WinFormsApp1
         private async void alzaAbbassa(int distanza)
         {
             pulsanteSchiacciato = true;
-            while (pulsanteSchiacciato)
+            while (pulsanteSchiacciato&&(pictureBox1.Top+distanza>=0&&pictureBox1.Bottom+distanza<=this.ClientSize.Height)&&(pictureBox2.Top+distanza>=0 && pictureBox2.Bottom+distanza<=this.ClientSize.Height))
             {
                 pictureBox2.Location = new Point(pictureBox2.Location.X, pictureBox2.Location.Y + distanza);
                 pictureBox1.Location = new Point(pictureBox1.Location.X, pictureBox1.Location.Y + distanza);
