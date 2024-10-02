@@ -53,7 +53,7 @@ namespace WinFormsApp1
             {
                 pictureBox2.Location = new Point(pictureBox2.Location.X, pictureBox2.Location.Y + distanza);
                 pictureBox1.Location = new Point(pictureBox1.Location.X, pictureBox1.Location.Y + distanza);
-                await Task.Delay(100);
+                await Task.Delay(101);
             }
         }
     }

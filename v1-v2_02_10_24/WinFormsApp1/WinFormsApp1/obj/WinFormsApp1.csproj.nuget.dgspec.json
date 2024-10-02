@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maffeis.21196\\Desktop\\v1-v2_02_10_24\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\maffeis.21196\\Nuova cartella\\es_lampadina_v1_v2\\v1-v2_02_10_24\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maffeis.21196\\Desktop\\v1-v2_02_10_24\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\maffeis.21196\\Nuova cartella\\es_lampadina_v1_v2\\v1-v2_02_10_24\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maffeis.21196\\Desktop\\v1-v2_02_10_24\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\maffeis.21196\\Nuova cartella\\es_lampadina_v1_v2\\v1-v2_02_10_24\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Users\\maffeis.21196\\Desktop\\v1-v2_02_10_24\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "C:\\Users\\maffeis.21196\\Nuova cartella\\es_lampadina_v1_v2\\v1-v2_02_10_24\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\maffeis.21196\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maffeis.21196\\Desktop\\v1-v2_02_10_24\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\maffeis.21196\\Nuova cartella\\es_lampadina_v1_v2\\v1-v2_02_10_24\\WinFormsApp1\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
